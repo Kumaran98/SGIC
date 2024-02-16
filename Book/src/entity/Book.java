@@ -20,31 +20,31 @@ public class Book {
         return id;
     }
 
-    public void setId(int id) {
-        this.id = id;
-    }
+ //   public void setId(int id) {
+//        this.id = id;
+  //  }
 
     public String getbookName() {
         return bookname;
     }
 
-    public void setbookName(String bookname) {
-        this.bookname = bookname;
-    }
+//    public void setbookName(String bookname) {
+  //      this.bookname = bookname;
+   // }
 
     public String getAuthorname() {
         return authorname;
     }
 
-    public void setAuthorname(String authorname) {
-        this.authorname = authorname;
-    }
+  //  public void setAuthorname(String authorname) {
+   //     this.authorname = authorname;
+   // }
 
     public String getLanguage() {
         return language;
     }
 
-    public void setLanguage(String language) {
-        this.language = language;
-    }
+ //   public void setLanguage(String language) {
+   //     this.language = language;
+   // }
 }
